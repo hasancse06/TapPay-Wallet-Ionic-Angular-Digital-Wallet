@@ -1,4 +1,4 @@
-# TapPay Ionic Angular Digital Wallet
+# TapPay-Ionic Angular Digital Wallet
 
 A **modern digital wallet system** built with **WordPress, WooCommerce, and Ionic Angular** that allows shop owners and managers to securely manage customer transactions using **NFC tags/cards**.  
 This project integrates with **TeraWallet** and extends its API using a custom plugin (**Woo Wallet API Extended**) to enable seamless **contactless payments, balance checking, and transaction history** through **Mifare Classic NFC cards**.  
