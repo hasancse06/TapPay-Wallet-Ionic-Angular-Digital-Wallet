@@ -1,7 +1,8 @@
-# TapPay-Ionic Angular Digital Wallet
+# 💳 TapPay Wallet – NFC Digital Wallet App (Ionic + Angular + WooCommerce)
 
-A **modern digital wallet system** built with **WordPress, WooCommerce, and Ionic Angular** that allows shop owners and managers to securely manage customer transactions using **NFC tags/cards**.  
-This project integrates with **TeraWallet** and extends its API using a custom plugin (**Woo Wallet API Extended**) to enable seamless **contactless payments, balance checking, and transaction history** through **Mifare Classic NFC cards**.  
+A **free, open-source NFC Digital Wallet System** built with **WordPress, WooCommerce, and Ionic Angular**.  
+It enables shop owners and managers to securely manage customer transactions using **Mifare Classic NFC tags/cards** for **contactless payments, balance checking, and transaction history**.  
+This project integrates with **TeraWallet** and a custom plugin (**Woo Wallet API Extended**) to extend wallet API functionalities and provide a seamless tap-to-pay experience.  
 
 ---
 
@@ -90,17 +91,11 @@ git clone https://github.com/YOUR_USERNAME/TapPay-Wallet-Ionic-Angular-Digital-W
 cd TapPay-Wallet-Ionic-Angular-Digital-Wallet
 ```
 
-## 🧠 SEO Keywords
+## Screenshots
 
-- Digital Wallet for Shop Owners
-- WooCommerce NFC Wallet 
-- WordPress NFC Wallet 
-- Ionic Angular Digital Wallet App  
-- RFID Payment System WooCommerce  
-- TeraWallet NFC Integration  
-- Contactless Payment App for WordPress  
-- Mifare Classic NFC Wallet App  
-
+![ScreenShot](rfid-ss-1.png)
+![ScreenShot](rfid-ss-2.png)
+![ScreenShot](rfid-ss-3.png)
 
    
 ## 🙌 Author
