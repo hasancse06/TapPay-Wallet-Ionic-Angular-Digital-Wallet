@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # 💳 TapPay Wallet – NFC Digital Wallet App (Ionic + Angular + WooCommerce)
+=======
+# TapPay Ionic Angular Digital Wallet
+>>>>>>> bb033e1 (package fix)
 
 A **free, open-source NFC Digital Wallet System** built with **WordPress, WooCommerce, and Ionic Angular**.  
 It enables shop owners and managers to securely manage customer transactions using **Mifare Classic NFC tags/cards** for **contactless payments, balance checking, and transaction history**.  
