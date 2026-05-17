@@ -91,7 +91,7 @@ With this app, your shop becomes a **cashless ecosystem** where customers enjoy 
 1. **Clone this repo:**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/TapPay-Wallet-Ionic-Angular-Digital-Wallet.git
+git clone https://github.com/hasancse06/TapPay-Wallet-Ionic-Angular-Digital-Wallet.git
 cd TapPay-Wallet-Ionic-Angular-Digital-Wallet
 ```
 
